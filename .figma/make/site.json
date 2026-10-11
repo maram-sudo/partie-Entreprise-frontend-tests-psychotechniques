@@ -1,0 +1,10 @@
+{
+  "description": "Streamline psychotechnical recruitment with a modern B2B SaaS platform offering a comprehensive design system and intuitive component library for efficient testing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
